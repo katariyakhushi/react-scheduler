@@ -20,8 +20,8 @@ You can view a live demo of the application [here](https://scheduler-react-khush
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/scheduler-app.git
-   cd scheduler-app
+   git clone https://github.com/katariyakhushi/react-scheduler.git
+   cd react-scheduler
    ```
 
 2. **Install dependencies**:
